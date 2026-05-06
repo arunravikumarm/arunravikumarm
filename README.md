@@ -1,128 +1,84 @@
-👋 Hi, I'm Arun M
-
-🎓 BCA Student | 📊 Aspiring Data Analyst | 🤖 ML Enthusiast
-
-📍 Palakkad, Kerala, India
-📧 arunravikumar2006@gmail.com
-🔗 "LinkedIn" (https://linkedin.com/in/arunravikumarm)
-
----
+<!-- HEADER --><h1 align="center">Hi 👋, I'm Arun M</h1>
+<h3 align="center">🎓 Entry-Level Data Analyst | 🤖 ML Learner | 💻 Python Enthusiast</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Machine+Learning+Learner;Building+Projects+%F0%9F%9A%80;Always+Learning+New+Things" />
+</p>---
 
 🚀 About Me
 
-I am an aspiring Data Analyst and Machine Learning enthusiast with hands-on experience in building predictive models and working with real-world datasets. I enjoy transforming data into meaningful insights and continuously improving my skills in data science and AI.
+🎓 BCA Student (Calicut University)
+📍 Palakkad, Kerala, India
+
+- 🌱 Currently learning Data Analytics & Machine Learning
+- 🐍 Working with Python, Pandas, NumPy, Scikit-learn
+- 📊 Interested in data analysis & real-world projects
+- 💡 Focused on building strong fundamentals step by step
 
 ---
 
 🛠️ Tech Stack
 
-Languages:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" />
+</p>---
 
-- Python, C, C++
+📊 GitHub Stats
 
-Web:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arunravikumarm&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunravikumarm&layout=compact&theme=tokyonight&hide_border=true" />
+</p>---
 
-- HTML
+🔥 GitHub Streak
 
-Core Concepts:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arunravikumarm&theme=tokyonight&hide_border=true" />
+</p>---
 
-- Data Structures
-- Object-Oriented Programming (OOP)
-- Artificial Intelligence
-- Machine Learning
+📂 Projects
 
-Databases:
+✨ Student Exam Score Prediction
 
-- MySQL
+- Built a basic ML model using Python
+- Learned preprocessing & evaluation metrics
 
-Tools & Libraries:
+✨ Salary Prediction Model
 
-- NumPy, Pandas, Scikit-learn
-- Microsoft Excel
+- Practiced feature engineering & model comparison
+- Explored Linear Regression vs Random Forest
 
----
+✨ Credit Card Fraud Detection
 
-📊 Projects
-
-🎯 Student Exam Score Prediction
-
-- Built an ML model to predict student performance
-- Performed EDA, preprocessing, and evaluation
-- Metrics used: MAE, MSE, R²
-
-💼 Salary Prediction Model
-
-- Developed a scalable ML pipeline
-- Applied feature engineering, encoding, and scaling
-- Compared Linear Regression vs Random Forest on large datasets
-
-🔍 Credit Card Fraud Detection
-
-- Built model using XGBoost and SMOTE for imbalanced data
-- Improved recall performance
-- Evaluated using Precision, Recall, and F1-score
+- Learned handling imbalanced data using SMOTE
+- Evaluated with precision, recall & F1-score
 
 ---
 
-💼 Experience
+🎯 Current Focus
 
-AI & ML Intern — Softroniics (120 Hours)
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Data%20Analytics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-Machine%20Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-First%20Tech%20Job-orange?style=for-the-badge" />
+</p>---
 
-- Developed machine learning models using Python
-- Worked on data preprocessing & feature engineering
-- Evaluated models using standard performance metrics
+📫 Connect with Me
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/arunravikumarm">
+    <img src="https://img.shields.io/badge/LinkedIn-Arun%20M-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:arunravikumar2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>---
 
-🎓 Education
-
-- Bachelor of Computer Application (Pursuing)
-  Calicut University | Ideal Arts & Science College
-
-- Higher Secondary (Computer Science) (2022 – 2024)
-  HSS Sreekrishnapuram
-
-- SSLC (2022)
-  HSS Sreekrishnapuram
-
----
-
-📜 Certifications
-
-- C++ Language Course — G-Tec Computer Education
-- Python Language Course — G-Tec Computer Education
-
----
-
-🌱 Soft Skills
-
-- Communication Skills
-- Attention to Detail
-- Willingness to Learn
-
----
-
-📈 GitHub Goals
-
-- Build more real-world ML projects
-- Contribute to open-source
-- Strengthen data analysis & visualization skills
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
-
-<!--
-**arunravikumarm/arunravikumarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ⭐ Building skills one project at a time
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0052D4&height=120&section=footer"/>
+</p>
